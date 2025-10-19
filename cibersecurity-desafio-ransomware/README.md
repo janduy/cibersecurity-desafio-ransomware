@@ -29,3 +29,5 @@ pip install -r requirements.txt
 ## Conclusão
 
 Este projeto é uma introdução prática à criptografia usada em ataques de ransomware. Sempre siga práticas éticas ao explorar questões de segurança.
+
+Laboratório de estudos
